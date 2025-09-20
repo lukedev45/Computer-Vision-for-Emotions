@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f44d38b-b45d-4376-9d24-b8317b6e3d40" name="Changes" comment="Starting commit to test opencv webcam">
-      <change afterPath="$PROJECT_DIR$/final_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media_test.py" afterDir="false" />
+    <list default="true" id="4f44d38b-b45d-4376-9d24-b8317b6e3d40" name="Changes" comment="Created final project file and working towards finding out how to create an outline for the face to rest in">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/output.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/final_project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.AI Solution.executor": "Run",
     "Python.final_project.executor": "Run",
     "Python.media_test.executor": "Run",
     "Python.webcam.executor": "Run",
@@ -81,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758370111149</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created final project file and working towards finding out how to create an outline for the face to rest in">
+      <option name="closed" value="true" />
+      <created>1758380123819</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758380123819</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Starting commit to test opencv webcam" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting commit to test opencv webcam" />
+    <MESSAGE value="Created final project file and working towards finding out how to create an outline for the face to rest in" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created final project file and working towards finding out how to create an outline for the face to rest in" />
   </component>
 </project>

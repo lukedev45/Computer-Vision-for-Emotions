@@ -3,6 +3,9 @@ import mediapipe as mp
 import serial
 import math
 
+TARGET_W_FRAC = 0.45
+TARGET_H_FRAC = 0.60
+
 webcam = cv2.VideoCapture(0)
 mp_face = mp.solutions.face_mesh
 mp_drawing = mp.solutions.drawing_utils
